@@ -1,6 +1,4 @@
 <div align="center">
-
-
 <img src="https://i.pinimg.com/736x/ff/67/0a/ff670ac1212e20851f34b6e67d2309df.jpg"  width="300" height="300"/>
 </div> 
 
@@ -30,4 +28,5 @@ Este projeto utiliza a biblioteca [ml5.js](https://ml5js.org/) e o modelo **Pose
 2. Abra o arquivo index.html em um navegador
 3. Permita o acesso à câmera
 4. Veja o filtro em ação e clique no botão para baixar sua foto!
-📸 Divirta-se e compartilhe!
+   
+## 📸 Divirta-se e compartilhe!
