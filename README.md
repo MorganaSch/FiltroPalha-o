@@ -1,7 +1,7 @@
 <div align="center">
 
-![ff670ac1212e20851f34b6e67d2309df](https://github.com/user-attachments/assets/0bfdf888-dd0d-4b2b-bf0e-a193656bb63c)
 
+<img src="![ff670ac1212e20851f34b6e67d2309df](https://github.com/user-attachments/assets/0bfdf888-dd0d-4b2b-bf0e-a193656bb63c)"  width="400" height="300">
 </div> 
 
 # 🎭 Filtro de Nariz de Palhaço com PoseNet e ml5.js  
