@@ -18,6 +18,10 @@ Este projeto utiliza a biblioteca [ml5.js](https://ml5js.org/) e o modelo **Pose
 - **ml5.js (PoseNet)**  
 - **p5.js** (para renderização e manipulação da imagem)  
 
+## 🎪 Como Jogar Online
+🔗 **Acesse o jogo aqui:**  
+👉 [Filtro Nariz de Palhaço](https://morganasch.github.io/FiltroPalha-o/) 
+
 ## 📌 Como Usar  
 1. Clone o repositório:  
    ```sh
